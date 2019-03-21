@@ -31,7 +31,7 @@ var bookmarks = (function() {
     url: "https://www.google.com/maps",
     timeStamp: 1546453103560
   }, {
-    letter: "AS",
+    letter: "***",
     name: "awesomeSheet",
     url: "https://zombiefox.github.io/awesomeSheet/",
     timeStamp: 1546453104010
@@ -41,9 +41,9 @@ var bookmarks = (function() {
     url: "https://www.netflix.com/",
     timeStamp: 1546453104460
   }, {
-    letter: "P",
-    name: "Photos",
-    url: "https://photos.google.com/",
+    letter: "iC",
+    name: "iCloud",
+    url: "https://www.iCloud.com/",
     timeStamp: 1546453104910
   }, {
     letter: "FB",
@@ -51,12 +51,12 @@ var bookmarks = (function() {
     url: "https://www.facebook.com/",
     timeStamp: 1546453105349
   }, {
-    letter: "GOT",
+    letter: "***",
     name: "r/gameofthrones/",
     url: "https://www.reddit.com/r/gameofthrones/",
     timeStamp: 1546453105844
   }, {
-    letter: "BX",
+    letter: "***",
     name: "Box",
     url: "https://app.box.com/login/",
     timeStamp: 1546453106272
@@ -66,7 +66,7 @@ var bookmarks = (function() {
     url: "https://www.sigalert.com/Map.asp?region=Orange+County",
     timeStamp: 1546453106734
   }, {
-    letter: "PRG",
+    letter: "***",
     name: "r/Pathfinder_RPG/",
     url: "https://www.reddit.com/r/Pathfinder_RPG/",
     timeStamp: 1546453107194
@@ -81,7 +81,7 @@ var bookmarks = (function() {
     url: "https://www.youtube.com/",
     timeStamp: 1546453108071
   }, {
-    letter: "CO",
+    letter: "***",
     name: "Contacts",
     url: "https://contacts.google.com/",
     timeStamp: 1546453108501
@@ -96,7 +96,7 @@ var bookmarks = (function() {
     url: "https://www.reddit.com/r/Android/",
     timeStamp: 1546453109355
   }, {
-    letter: "V",
+    letter: "***",
     name: "r/videos/",
     url: "https://www.reddit.com/r/videos/",
     timeStamp: 1546453109840
@@ -116,17 +116,17 @@ var bookmarks = (function() {
     url: "https://www.reddit.com/",
     timeStamp: 1546453111491
   }, {
-    letter: "DR",
+    letter: "***",
     name: "Drive",
     url: "https://drive.google.com/drive/",
     timeStamp: 1546453111953
   }, {
-    letter: "ANA",
+    letter: "***",
     name: "Analytics",
     url: "https://analytics.google.com/",
     timeStamp: 1546453112357
   }, {
-    letter: "COS",
+    letter: "***",
     name: "r/chromeos/",
     url: "https://www.reddit.com/r/chromeos/",
     timeStamp: 1546453112797
