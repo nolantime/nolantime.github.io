@@ -16,9 +16,9 @@ var bookmarks = (function() {
     url: "https://www.reddit.com/r/opendirectories/",
     timeStamp: 1546453102199
   }, {
-    letter: "KP",
-    name: "Keep",
-    url: "https://keep.google.com/",
+    letter: "AR",
+    name: "r/ar15",
+    url: "https://www.reddit.com/r/ar15",
     timeStamp: 1546453102671
   }, {
     letter: "BA",
@@ -28,7 +28,7 @@ var bookmarks = (function() {
   }, {
     letter: "M",
     name: "Maps",
-    url: "https://www.google.co.uk/maps",
+    url: "https://www.google.com/maps",
     timeStamp: 1546453103560
   }, {
     letter: "AS",
@@ -61,9 +61,9 @@ var bookmarks = (function() {
     url: "https://app.box.com/login/",
     timeStamp: 1546453106272
   }, {
-    letter: "TFL",
-    name: "TFL Map",
-    url: "http://content.tfl.gov.uk/standard-tube-map.pdf",
+    letter: "SIG",
+    name: "SigAlert",
+    url: "https://www.sigalert.com/Map.asp?region=Orange+County",
     timeStamp: 1546453106734
   }, {
     letter: "PRG",
@@ -73,7 +73,7 @@ var bookmarks = (function() {
   }, {
     letter: "AZ",
     name: "Amazon",
-    url: "https://www.amazon.co.uk/",
+    url: "https://smile.amazon.com/",
     timeStamp: 1546453107633
   }, {
     letter: "YT",
