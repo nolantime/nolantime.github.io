@@ -21,9 +21,9 @@ var bookmarks = (function() {
     url: "https://keep.google.com/",
     timeStamp: 1546453102671
   }, {
-    letter: "MHW",
-    name: "r/monsterhunterworld/",
-    url: "https://www.reddit.com/r/monsterhunterworld/",
+    letter: "BA",
+    name: "BeerAdvocate/Pacific",
+    url: "https://www.beeradvocate.com/community/forums/pacific.15/",
     timeStamp: 1546453103110
   }, {
     letter: "M",
