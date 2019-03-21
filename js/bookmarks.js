@@ -31,11 +31,6 @@ var bookmarks = (function() {
     url: "https://www.google.com/maps",
     timeStamp: 1546453103560
   }, {
-    letter: "***",
-    name: "awesomeSheet",
-    url: "https://zombiefox.github.io/awesomeSheet/",
-    timeStamp: 1546453104010
-  }, {
     letter: "N",
     name: "Netflix",
     url: "https://www.netflix.com/",
@@ -51,25 +46,10 @@ var bookmarks = (function() {
     url: "https://www.facebook.com/",
     timeStamp: 1546453105349
   }, {
-    letter: "***",
-    name: "r/gameofthrones/",
-    url: "https://www.reddit.com/r/gameofthrones/",
-    timeStamp: 1546453105844
-  }, {
-    letter: "***",
-    name: "Box",
-    url: "https://app.box.com/login/",
-    timeStamp: 1546453106272
-  }, {
     letter: "SIG",
     name: "SigAlert",
     url: "https://www.sigalert.com/Map.asp?region=Orange+County",
     timeStamp: 1546453106734
-  }, {
-    letter: "***",
-    name: "r/Pathfinder_RPG/",
-    url: "https://www.reddit.com/r/Pathfinder_RPG/",
-    timeStamp: 1546453107194
   }, {
     letter: "AZ",
     name: "Amazon",
@@ -81,11 +61,6 @@ var bookmarks = (function() {
     url: "https://www.youtube.com/",
     timeStamp: 1546453108071
   }, {
-    letter: "***",
-    name: "Contacts",
-    url: "https://contacts.google.com/",
-    timeStamp: 1546453108501
-  }, {
     letter: "GIT",
     name: "Github",
     url: "https://github.com/",
@@ -95,11 +70,6 @@ var bookmarks = (function() {
     name: "r/Android/",
     url: "https://www.reddit.com/r/Android/",
     timeStamp: 1546453109355
-  }, {
-    letter: "***",
-    name: "r/videos/",
-    url: "https://www.reddit.com/r/videos/",
-    timeStamp: 1546453109840
   }, {
     letter: "GM",
     name: "Gmail",
@@ -115,21 +85,6 @@ var bookmarks = (function() {
     name: "Reddit",
     url: "https://www.reddit.com/",
     timeStamp: 1546453111491
-  }, {
-    letter: "***",
-    name: "Drive",
-    url: "https://drive.google.com/drive/",
-    timeStamp: 1546453111953
-  }, {
-    letter: "***",
-    name: "Analytics",
-    url: "https://analytics.google.com/",
-    timeStamp: 1546453112357
-  }, {
-    letter: "***",
-    name: "r/chromeos/",
-    url: "https://www.reddit.com/r/chromeos/",
-    timeStamp: 1546453112797
   }];
 
   var get = function(timeStamp) {
