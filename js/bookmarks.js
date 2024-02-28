@@ -83,7 +83,7 @@ var bookmarks = (function() {
   }, {
     letter: "R",
     name: "Reddit",
-    url: "https://www.reddit.com/",
+    url: "https://old.reddit.com/",
     timeStamp: 1546453111491
   }];
 
